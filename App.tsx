@@ -40,7 +40,7 @@ export default function App() {
           }}
         >
           <CustomButton
-            title="Show Modallll"
+            title="Show Modal"
             onPress={() => {
               toggle(true);
             }}
