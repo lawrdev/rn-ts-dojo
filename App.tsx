@@ -59,7 +59,7 @@ export default function App() {
           presentationStyle="pageSheet"
         >
           <View style={{ flex: 1, padding: 50, backgroundColor: "lightblue" }}>
-            <Text>This is a modal</Text>
+            <Text>This is a modal test</Text>
 
             <Button
               title="Close Modal"
